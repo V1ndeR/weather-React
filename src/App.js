@@ -4,12 +4,10 @@ import {
     Switch,
     Route,
     Link,
-} from "react-router-dom";
-import {WeatherDay} from "./Pages/weatherDay/WeatherDay";
-import {WeatherWeek} from "./Pages/weatherWeek/WeatherWeek";
-import NotFound from "./Components/notFound/NotFound";
-
-
+} from 'react-router-dom';
+import { WeatherDay } from './Pages/WeatherDay/WeatherDay';
+import { WeatherWeek } from './Pages/WeatherWeek/WeatherWeek';
+import NotFound from './Components/NotFound/NotFound';
 
 const App = () => {
     return (

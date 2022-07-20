@@ -1,7 +1,7 @@
 import React from 'react';
-import { Link } from "react-router-dom";
+import { Link } from 'react-router-dom';
 
-import '/src/Components/notFound/notFound.scss';
+import '/src/Components/NotFound/NotFound.scss';
 
 const NotFound = () => (
     <div className="error-div">
