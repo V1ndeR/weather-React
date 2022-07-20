@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { usePosition } from 'use-position';
-import { Loader } from '../../Components/loader/Loader';
+import { Loader } from '../../Components/Loader/Loader';
 import { Link } from 'react-router-dom';
 
 import bg from '../../img/bg.jpg';
