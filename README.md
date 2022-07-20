@@ -4,7 +4,7 @@ The application determines your geolocation and, with your consent, shows the we
 
 # Getting Started with Create React App
 
-Install all dependencies
+Install all dependencies:
 
 ### `npm i`
 
